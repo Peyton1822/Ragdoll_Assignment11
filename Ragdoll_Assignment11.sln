@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ragdoll_Assignment11", "Ragdoll_Assignment11\Ragdoll_Assignment11.pyproj", "{8D374F12-AC45-46E0-8702-33708C745A3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D374F12-AC45-46E0-8702-33708C745A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D374F12-AC45-46E0-8702-33708C745A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2D1C81D-548F-40F7-9A2F-AF917AAECE35}
+	EndGlobalSection
+EndGlobal
