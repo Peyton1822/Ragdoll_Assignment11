@@ -1,0 +1,6 @@
+Transaction Number,Fuel Quantity,Gross Price,Full Address,Date & Time,Fuel Type,Site Name,Site ID,VIN,Vehicle ID,Price Per Gallon
+1,31.775,3.49,"4232 Cougar Parkwy, Lynchburg, OH ",2024-10-02 09:30:12,lng,Marathon,eeefe,SPNJL1JI5233NNE06,81351624,N/A
+2,54.867,3.07,"5869 Brandonmere Court, Clifton, OH ",2024-10-02 08:27:34,methanol,Flying J,33345,0T5K07T5R0RXUC3J7,12111121,N/A
+3,40.274,2.57,"43251 OH,  Columbus, 3099 Daylight Street, ",2024-10-02 08:54:26,gas,Love's,kccpf,OF2R8BPBQW86A4H81,11118111,N/A
+5,44.12672,3.17,"43214 OH,  Columbus, 7241 Miller Road, ",2024-10-02 04:21:30,methanol,Speedway,vaia,TMPL2FUQB0O7U03AI,11111117,N/A
+6,4.9456,2.68,"4595 Oaklahoma St, Cleveland, OH ",2024-10-02 05:52:30,methanol,Flying J,12348,DM8EQYMQILTKGX3PD,23412754,N/A
